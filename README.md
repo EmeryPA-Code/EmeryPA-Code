@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi there, I'm Emery 👋
 
-<!--
-**EmeryPA-Code/EmeryPA-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer in Training | Growth & AI Specialist
 
-Here are some ideas to get you started:
+Combining 6+ years of Growth expertise with modern Full Stack Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am pursuing a **Master’s Degree in Full Stack Web Development**. 
+
+Having completed the initial 17% of the program, I have already mastered Python for AI and Automation, and I am now diving deep into Backend Architecture. 
+
+🎓 Academic Journey (Master's Progress: 17%)
+
+✅ Python Specialist Certification: Mastered data structures, logic, and AI integration.
+
+🚀 Current Focus: Backend Engineering (Databases, APIs, and Server-side logic).
+
+⏳ Upcoming: Frontend Development (React, Next.js, and Modern UI/UX).
+
+🚀 What I'm Focused On
+
+- AI Integration: Building custom pipelines using OpenAI and Python to automate business workflows.
+
+- Backend Foundations: Transitioning from scripts to robust, production-ready APIs with FastAPI.
+
+- Data-Driven Growth: Leveraging my background at companies like Hawkers to build tools that actually impact ROI.
+
+🛠 Tech Stack (Growing Daily)
+
+Languages & Core:
+
+- Current Toolkit: **OpenAI API • FastAPI • Pydantic • Web Scraping (BS4/Selenium)**
+
+- In Short: **SQLAlchemy • PostgreSQL • Docker**
+
+- Future Skills: **React • TailwindCSS • Next.js**
+
+📂 Featured Projects (Master's Path)
+
+Vision-to-JSON API
+
+My Capstone Python Project
+A high-performance FastAPI service that uses GPT-4o Vision to analyze complex documents (invoices, forms) and returns validated JSON data.
+
+Tech: Python, FastAPI, OpenAI API, Pydantic.
+
+Growth-Flow Automator
+
+Automation Tool
+Developed to automate lead qualification through web scraping and sentiment analysis, applying my Python certifications to real-world growth problems.
+
+Tech: Python, BeautifulSoup, Pandas.
+
+📫 Connect with me
+
+LinkedIn: [linkedin.com/in/emerypiqueras](https://www.linkedin.com/in/emerypiqueras/?locale=en-US)
+
+Email: emerypiqueras@gmail.com
+
+"I am looking for opportunities where I can apply my unique blend of growth strategy and AI engineering to solve complex problems."
