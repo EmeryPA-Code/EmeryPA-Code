@@ -1,5 +1,7 @@
 ## Hi there, I'm Emery 👋
 
+<img width="1500" height="500" alt="X% Left" src="https://github.com/user-attachments/assets/565dd96b-1170-41eb-aec7-65ca7f021f88" />
+
 Full Stack Developer in Training | Growth & AI Specialist
 
 Combining 6+ years of Growth expertise with modern Full Stack Engineering.
