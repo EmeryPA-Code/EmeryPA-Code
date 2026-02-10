@@ -1,8 +1,12 @@
-## Hi there, I'm Emery 👋
+# Hi there, I'm Emery 👋
 
 <img width="1500" height="500" alt="X% Left" src="https://github.com/user-attachments/assets/565dd96b-1170-41eb-aec7-65ca7f021f88" />
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCFclj0KOnsqO3sulZfdsZVQ"> 
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/EmeryPA"> 
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/epasou">
 
-Full Stack Developer in Training | Growth & AI Specialist
+
+## Full Stack Developer in Training | Growth & AI Specialist
 
 Combining 6+ years of Growth expertise with modern Full Stack Engineering.
 
