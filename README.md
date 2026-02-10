@@ -14,15 +14,15 @@ Currently, I am pursuing a **Master’s Degree in Full Stack Web Development**.
 
 Having completed the initial 17% of the program, I have already mastered Python for AI and Automation, and I am now diving deep into Backend Architecture. 
 
-🎓 Academic Journey (Master's Progress: 18%)
+#### 🎓 Academic Journey (Master's Progress: 18%)
 
-✅ Python Specialist Certification: Mastered data structures, logic, and AI integration.
+#### ✅ Python Specialist Certification: Mastered data structures, logic, and AI integration.
 
-🚀 Current Focus: Backend Engineering (Databases, APIs, and Server-side logic).
+#### 🚀 Current Focus: Backend Engineering (Databases, APIs, and Server-side logic).
 
-⏳ Upcoming: Frontend Development (React, Next.js, and Modern UI/UX).
+#### ⏳ Upcoming: Frontend Development (React, Next.js, and Modern UI/UX).
 
-🚀 What I'm Focused On
+#### 🚀 What I'm Focused On:
 
 - AI Integration: Building custom pipelines using OpenAI and Python to automate business workflows.
 
@@ -30,11 +30,11 @@ Having completed the initial 17% of the program, I have already mastered Python 
 
 - Data-Driven Growth: Leveraging my background at companies like Hawkers to build tools that actually impact ROI.
 
-🛠 Tech Stack (Growing Daily)
+#### 🛠 Tech Stack (Growing Daily)
 
-Languages & Core:
+#### Languages & Core:
 
-- Current Toolkit: **OpenAI API • FastAPI • Pydantic • Web Scraping (BS4/Selenium)**
+- Current Toolkit: **OpenAI API • FastAPI • Pydantic • Web Scraping**
 
 - In Short: **SQLAlchemy • PostgreSQL • Docker**
 
