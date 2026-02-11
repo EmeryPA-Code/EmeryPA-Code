@@ -1,9 +1,12 @@
-# Hi there, I'm Emery 👋
+# <img width="56" height="56" alt="favicon_github-removebg-preview" src="https://github.com/user-attachments/assets/a7d3a9a3-c95a-4285-ac77-a9d21636cc02" /> Hi there, I'm Emery 👋
 
-<img width="1500" height="500" alt="X% Left" src="https://github.com/user-attachments/assets/565dd96b-1170-41eb-aec7-65ca7f021f88" />
+
+<img width="1500" height="500" alt="X% Left (1)" src="https://github.com/user-attachments/assets/9cff1167-def9-4d9f-93de-349b9cf4cb9c" />
+
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCFclj0KOnsqO3sulZfdsZVQ"> 
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/EmeryPA"> 
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/epasou">
+
 
 
 ## Full Stack Developer in Training | Growth & AI Specialist
@@ -63,3 +66,6 @@ LinkedIn: [linkedin.com/in/emerypiqueras](https://www.linkedin.com/in/emerypique
 Email: emerypiqueras@gmail.com
 
 "I am looking for opportunities where I can apply my unique blend of growth strategy and AI engineering to solve complex problems."
+
+<img width="1264" height="848" alt="unwatermarked_Gemini_Generated_Image_3wczg73wczg73wcz (1)" src="https://github.com/user-attachments/assets/df3f835d-927c-44f9-8fcf-234c62cc6244" />
+
