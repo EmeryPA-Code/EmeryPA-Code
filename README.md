@@ -15,7 +15,7 @@ Combining 6+ years of Growth expertise with modern Full Stack Engineering.
 
 Currently, I am pursuing a **Master’s Degree in Full Stack Web Development**. 
 
-Having completed the initial 24% of the program, I have already mastered Python for AI and Automation, and I am now diving deep into Backend Architecture. 
+Having completed the initial 26% of the program, I have already mastered Python for AI and Automation, and I am now diving deep into Backend Architecture. 
 
 #### 🎓 Academic Journey (Master's Progress: 24%)
 
