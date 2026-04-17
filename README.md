@@ -37,7 +37,7 @@ Having completed the initial 30% of the program, I have already mastered Python 
 
 #### Languages & Core:
 
-- Current Toolkit: **OpenAI API • FastAPI • Pydantic • Web Scraping**
+- Current Toolkit: **OpenAI API • FastAPI • Pydantic • Web Scraping • Claude Code • VSCode/Antigravity • Vercel • Supabase**
 
 - In Short: **SQLAlchemy • PostgreSQL • Docker**
 
