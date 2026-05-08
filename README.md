@@ -35,7 +35,7 @@ I document the full journey from zero to full stack — publicly.
 
 ## 🎓 Master's Progress
 
-**Full Stack Web Development** — `30% complete`
+**Full Stack Web Development** — `38% complete`
 
 ```
 Python & AI     ████████████████████ 100% ✅
