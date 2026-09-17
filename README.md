@@ -3,7 +3,6 @@
 
 <img width="1500" height="500" alt="X% Left (1)" src="https://github.com/user-attachments/assets/9cff1167-def9-4d9f-93de-349b9cf4cb9c" />
 
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCFclj0KOnsqO3sulZfdsZVQ"> 
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/EmeryPA"> 
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/epasou">
 
